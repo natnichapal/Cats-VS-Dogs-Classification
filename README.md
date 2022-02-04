@@ -9,4 +9,4 @@ With `torchvision.models` you can download these pre-trained networks and use th
 
 We'll be using a [dataset of cat and dog photos](https://www.kaggle.com/c/dogs-vs-cats) available from Kaggle as a validation set. Here are a couple example images:
 
-<img src='assets/dog_cat.png'>
+<img src='cat.78.jpg'>
